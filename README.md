@@ -8,11 +8,11 @@
 ![ DBMS ](./assets/dbms-series-2/dbms%20series-2_page-0003.jpg)
 ![ DBMS ](./assets/dbms-series-2/dbms%20series-2_page-0004.jpg)
 
-```  Data Redundancy :-  Mean Same type of data stored at o Multiple place for example Vibhu Roll no , name , etc data stored in many Register.   ```
+### ```Data Redundancy :-  Mean Same type of data stored at o Multiple place for example Vibhu Roll no , name , etc data stored in many Register.   ```
 
-```  Poor Memory Utilization  :-  In file System poor Memory utilazation because we are saving one data in multiple place.   ```
+### ```Poor Memory Utilization  :-  In file System poor Memory utilazation because we are saving one data in multiple place.   ```
 
-```  Data Inconsistency  :- In Data Inconsistency    Same type of data Present in Many places.   ```
+### ```Data Inconsistency  :- In Data Inconsistency    Same type of data Present in Many places.   ```
 
 
  ![ DBMS ](./assets/DBMS%203/dbms%20series-1_page-0001.jpg)
