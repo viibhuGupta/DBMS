@@ -8,7 +8,7 @@
 ![ DBMS ](./assets/dbms-series-2/dbms%20series-2_page-0003.jpg)
 ![ DBMS ](./assets/dbms-series-2/dbms%20series-2_page-0004.jpg)
 
-### ```Data Redundancy :-  Mean Same type of data stored at o Multiple place for example Vibhu Roll no , name , etc data stored in many Register.   ```
+### ```Data Redundancy :-  It Means Same type of data stored at o Multiple place for example Vibhu Roll no , name , etc data stored in many Register.   ```
 
 ### ```Poor Memory Utilization  :-  In file System poor Memory utilazation because we are saving one data in multiple place.   ```
 
