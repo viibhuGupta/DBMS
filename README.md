@@ -1,5 +1,7 @@
 # DBMS Course With Notes 
 
+ > # DBMS And Its Types
+
 ![ DBMS ](./assets/dbms-series-1/dbms%20series-1_page-0001.jpg)
 
 ![ DBMS ](./assets/dbms-series-2/dbms%20series-2_page-0002.jpg)
