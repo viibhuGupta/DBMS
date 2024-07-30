@@ -48,3 +48,20 @@
 ![ DBMS ](./assets/DBMS%208/dbms%20series_page-0006.jpg)
 ![ DBMS ](./assets/DBMS%208/dbms%20series_page-0007.jpg)
 
+> #  DBMS Architecture and Its Types.
+![ DBMS ](./assets/DBMS%209/dbms%20series%207.48.16%20PM_page-0001.jpg)
+![ DBMS ](./assets/DBMS%209/dbms%20series%207.48.16%20PM_page-0002.jpg)
+![ DBMS ](./assets/DBMS%209/dbms%20series%207.48.16%20PM_page-0003.jpg)
+![ DBMS ](./assets/DBMS%209/dbms%20series%207.48.16%20PM_page-0004.jpg)
+![ DBMS ](./assets/DBMS%209/dbms%20series%207.48.16%20PM_page-0005.jpg)
+
+
+
+
+
+> #  DBMS Architecture Tier 3 Layers And Adv And Dis.
+
+![ DBMS ](./assets/DBMS%2010/dbms%20series-1_page-0001.jpg)
+![ DBMS ](./assets/DBMS%2010/dbms%20series-1_page-0002.jpg)
+![ DBMS ](./assets/DBMS%2010/dbms%20series-1_page-0003.jpg)
+![ DBMS ](./assets/DBMS%2010/dbms%20series-1_page-0004.jpg)
