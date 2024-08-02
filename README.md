@@ -65,3 +65,30 @@
 ![ DBMS ](./assets/DBMS%2010/dbms%20series-1_page-0002.jpg)
 ![ DBMS ](./assets/DBMS%2010/dbms%20series-1_page-0003.jpg)
 ![ DBMS ](./assets/DBMS%2010/dbms%20series-1_page-0004.jpg)
+
+
+> #  Data Models and Types of Model.
+
+![ DBMS ](./assets/DBMS%2011/dbms%20series-2_page-0001.jpg)
+![ DBMS ](./assets/DBMS%2011/dbms%20series-2_page-0002.jpg)
+![ DBMS ](./assets/DBMS%2011/dbms%20series-2_page-0003.jpg)
+![ DBMS ](./assets/DBMS%2011/dbms%20series-2_page-0004.jpg)
+![ DBMS ](./assets/DBMS%2011/dbms%20series-2_page-0005.jpg)
+![ DBMS ](./assets/DBMS%2011/dbms%20series-2_page-0006.jpg)
+![ DBMS ](./assets/DBMS%2011/dbms%20series-2_page-0007.jpg)
+
+> #  Data Models and Types of Model.
+
+![ DBMS ](./assets/DBMS%2012/dbms%20series-1_page-0001.jpg)
+![ DBMS ](./assets/DBMS%2012/dbms%20series-1_page-0002.jpg)
+
+> #  Data Models and Types of Model.
+![ DBMS ](./assets/DBMS%2013/dbms%20series_page-0001.jpg)
+![ DBMS ](./assets/DBMS%2013/dbms%20series_page-0002.jpg)
+![ DBMS ](./assets/DBMS%2013/dbms%20series_page-0003.jpg)
+
+
+
+
+
+
