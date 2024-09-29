@@ -11,21 +11,6 @@
 ![ DBMS ](./assets/dbms-series-2/LC-1_page-0007.jpg)
 
 
-`
-
-![ DBMS ](./assets/DBMS%203/dbms%20series-1_page-0001.jpg)
-![ DBMS ](./assets/DBMS%203/dbms%20series-1_page-0002.jpg)
-![ DBMS ](./assets/DBMS%203/dbms%20series-1_page-0003.jpg)
-![ DBMS ](./assets/DBMS%204/Lecture%205_page-0001.jpg)
-![ DBMS ](./assets/DBMS%204/Lecture%205_page-0002.jpg)
-![ DBMS ](./assets/DBMS%204/Lecture%205_page-0003.jpg)
-
-> # Need , Adv , Dis of DBMS.
-
-![ DBMS ](./assets/DBMS%206//Lec%206_page-0001.jpg)
-![ DBMS ](./assets/DBMS%206//Lec%206_page-0002.jpg)
-![ DBMS ](./assets/DBMS%206//Lec%206_page-0003.jpg)
-![ DBMS ](./assets/DBMS%206//Lec%206_page-0004.jpg)
 
 > # Data Abstraction and Types of Level of Data Abstraction.
 
